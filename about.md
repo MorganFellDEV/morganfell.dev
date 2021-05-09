@@ -24,5 +24,5 @@ Some fun facts about this page:
 * [How Much is a Freddo?](https://github.com/MorganFellDEV/HowMuchIsAFreddo)
 Does what it says on the tin, tells you the prices of Freddos. Scrapes various UK supermarket websites for the prices of the world's greatest chocolate, the [Freddo](https://en.wikipedia.org/wiki/Freddo)
 * [NovaBot](https://github.com/morganfelldev/moogdc/)
-Discord Bot used in a server with over 2200 members, general chat bot with fun GIFs and interactions. 
+Discord Bot used in a server with over 2200 members, general chat bot with fun GIFs and interactions. [Dashboard here!](https://cloud.moorgaan.dev)
 
