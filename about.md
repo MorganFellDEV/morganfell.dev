@@ -4,27 +4,25 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  You stumbled upon the About page! Prepare for a novel, maybe...
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+*At the beginning of time,* okay maybe not that early, I started investigating and playing around with VMware and Cloud platforms. Since then, it has become the primary focus of my work, with the odd side project (even still utilising it).
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
 
 ## Setup
 
-Some fun facts about the setup of this project include:
+Some fun facts about this page:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Built using [Hyde](https://github.com/poole/hyde) and [Jekyll](http://jekyllrb.com)
+* Hosted for free on [GitHub Pages](https://pages.github.com)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+
+## Side Projects
+
+* [How Much is a Freddo?](https://github.com/MorganFellDEV/HowMuchIsAFreddo)
+Does what it says on the tin, tells you the prices of Freddos. Scrapes various UK supermarket websites for the prices of the world's greatest chocolate, the [Freddo](https://en.wikipedia.org/wiki/Freddo)
+* [NovaBot](https://github.com/morganfelldev/moogdc/)
+Discord Bot used in a server with over 2200 members, general chat bot with fun GIFs and interactions. 
+
