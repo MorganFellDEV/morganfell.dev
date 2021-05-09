@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Morgan Fell
+tagline:          'Personal Site'
+description:      'Senior IT Admin from Cumbria, England.'
+url:              https://morganfell.dev
+baseurl:          /
+
+author:
+  name:           'Morgan Fell'
+  url:            https://morganfell.dev
+
+paginate:         5
+
+# Custom vars
+version:          0.01
+
+github:
+  repo:           https://github.com/MorganFellDEV
