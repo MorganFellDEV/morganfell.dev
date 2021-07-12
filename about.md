@@ -13,7 +13,7 @@ Morgan is a Senior IT Administrator from Cumbria, England, specialising in cloud
 
 Before joining the team at Furness College, Morgan trained students in various Cisco technologies and was lead of the Student Network Security team, competing in various CTFs and pentesting challenges, raising student interest in the world of Information Security and Penetration Testing.
 
-Morgan's knowledge focusses on Microsoft Azure, VMware vSphere + VMware Cloud Foundation, Citrix XenDesktop and Windows Server.
+Morgan's knowledge focusses on Microsoft Azure, VMware vSphere + VMware Cloud Foundation, Citrix XenDesktop and Windows Server. Maybe a bit of guitar too.
 
 
 ## Setup
