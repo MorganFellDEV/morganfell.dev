@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 🖥️ Passing the AZ-104
+description: The Microsoft AZ-104 exam and my experience from a general sysadmin perspective, including study techniques and complaints.
+comments: true
 ---
 
 So after a while of panic and dread, I passed my Microsoft AZ-104 exam and to be honest, it wasn't actually that bad!
@@ -13,3 +15,26 @@ I work with Azure on an almost daily basis so I'd like to think I have a good un
 
 My study resources primarily consisted of Pluralsight (thanks Tim Warner and Michael Bender!), which was provided by my employer. I CANNOT recommend enough tinkering with your own home-lab environment, although I do accept a lot of people won't have server clusters or perhaps even a single server at home, I did a lot of self-paced training in Azure directly by using Spot instances to minimise costs, I think the highest it went to before I sat the exam was around £20, for the knowledge and certification that brought me, I think that was money well spent.
 
+![image-title-here](/public/azure-administrator-associate.png){:class="img-responsive"}
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://morganfell-dev.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
