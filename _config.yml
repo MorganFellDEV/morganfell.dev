@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Morgan Fell
 tagline:          'Personal Site'
-description:      'Senior IT Admin from Cumbria, England.'
+description:      'Senior IT Admin from Cumbria, England. Microsoft Certified Azure Administrator'
 url:              https://morganfell.dev/
 baseurl:          /
 
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.01
+version:          0.02
 
 github:
   repo:           https://github.com/MorganFellDEV
