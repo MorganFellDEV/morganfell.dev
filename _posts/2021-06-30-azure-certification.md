@@ -15,7 +15,7 @@ I work with Azure on an almost daily basis so I'd like to think I have a good un
 
 My study resources primarily consisted of Pluralsight (thanks Tim Warner and Michael Bender!), which was provided by my employer. I CANNOT recommend enough tinkering with your own home-lab environment, although I do accept a lot of people won't have server clusters or perhaps even a single server at home, I did a lot of self-paced training in Azure directly by using Spot instances to minimise costs, I think the highest it went to before I sat the exam was around £20, for the knowledge and certification that brought me, I think that was money well spent.
 
-![image-title-here](/public/azure-administrator-associate.png){:class="img-responsive"}
+![Microsoft Certified Azure Administrator](/public/azure-administrator-associate.png){:class="img-responsive"}
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
