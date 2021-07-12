@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🖥 Passing the AZ-104
+title: 🖥️ Passing the AZ-104
 ---
 
 So after a while of panic and dread, I passed my Microsoft AZ-104 exam and to be honest, it wasn't actually that bad!
