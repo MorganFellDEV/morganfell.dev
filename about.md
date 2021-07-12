@@ -6,7 +6,7 @@ description: Morgan is a Senior IT Administrator from Cumbria, England, speciali
 ---
 
 
-![Morgan Fell](/public/morgan-mugshot.jpg){:class="img-responsive"}
+<img src="/public/morgan-mugshot.jpg" height="auto" width="200" style="border-radius:50%"/>
 
 
 Morgan is a Senior IT Administrator from Cumbria, England, specialising in cloud and virtualisation technologies. Morgan is currently employed at Furness College, working to improve and maintain virtualised server and network infrastructure, as well as providing support for staff and students when necessary. 
