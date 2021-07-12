@@ -4,10 +4,10 @@ title: About
 ---
 
 <p class="message">
-  You stumbled upon the About page! Prepare for a novel, maybe...
+  About
 </p>
 
-*At the beginning of time,* okay maybe not that early, I started investigating and playing around with VMware and Cloud platforms. Since then, it has become the primary focus of my work, with the odd side project (even still utilising it).
+Morgan Fell is a Senior IT administrator from Cumbria, England, specialising in cloud and virtualisation technologies.
 
 
 ## Setup
