@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -8,13 +8,10 @@ permalink:        pretty
 # Setup
 title:            Morgan Fell
 tagline:          'Personal Site'
-description:      'Senior IT Admin from Cumbria, England. Microsoft Certified Azure Administrator'
+description:      'Senior IT Admin from Cumbria, England.'
 url:              https://morganfell.dev/
 baseurl:          /
 
-author:
-  name:           'Morgan Fell'
-  url:            https://morganfell.dev
 
 paginate:         5
 
@@ -23,3 +20,21 @@ version:          0.02
 
 github:
   repo:           https://github.com/MorganFellDEV
+
+plugins:
+  - jekyll-seo-tag
+
+author:
+  name: Morgan Fell
+  twitter: _morganfell
+twitter:
+  username: _morganfell
+  card: summary_large_image
+social:
+  name: Morgan Fell
+  links:
+    - https://twitter.com/_morganfell
+    - https://www.linkedin.com/in/MorganFell1
+    - https://github.com/MorganFellDEV
+
+timezone: Europe/London
