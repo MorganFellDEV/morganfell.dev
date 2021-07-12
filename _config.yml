@@ -23,6 +23,7 @@ github:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 author:
   name: Morgan Fell
