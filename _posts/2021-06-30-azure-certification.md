@@ -2,7 +2,6 @@
 layout: post
 title: 🖥️ Passing the AZ-104
 description: The Microsoft AZ-104 exam and my experience from a general sysadmin perspective, including study techniques and complaints.
-comments: true
 ---
 
 So after a while of panic and dread, I passed my Microsoft AZ-104 exam and to be honest, it wasn't actually that bad!
@@ -16,25 +15,3 @@ My study resources primarily consisted of Pluralsight (shoutout Tim Warner and M
 
 
 ![Microsoft Certified Azure Administrator](/public/azure-administrator-associate.png){:class="img-responsive"}
-
-{% if page.comments %}
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://morganfell-dev.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}
