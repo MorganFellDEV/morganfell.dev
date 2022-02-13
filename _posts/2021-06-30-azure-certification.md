@@ -1,17 +1,13 @@
 ---
 layout: post
-title: 🖥️ Passing the AZ-104
-description: The Microsoft AZ-104 exam and my experience from a general sysadmin perspective, including study techniques and complaints.
+title: 🖥️ AZ-104 - Post-Exam Write-up 
+description: The Microsoft AZ-104 exam and my experience from a general sysadmin perspective.
 ---
-
-So after a while of panic and dread, I passed my Microsoft AZ-104 exam and to be honest, it wasn't actually that bad!
-I started properly investing myself into the AZ-104 exam after Microsoft Ignite 2021 provided free exam vouchers for individuals who complete the yearly Ignite challenge, I was already looking at it but I guess you could say this finally pulled me in to do it!
-
-A couple of people have already asked for exam advice, whilst I'm definitely not an educator in the subject, the number one thing I would say to someone going to do the AZ-104 would be to book it as soon as you can! As someone who is not a fan of exams, I continuously put it off but in reality it forced me to be productive. Admittedly, it's not the best idea to make yourself anxious or nervous but it did make me study a lot more than I already was doing.
+Microsoft Ignite 2021 brought with it free exam vouchers for a number of different topics, fortunately for me, I picked my favourite of the list and a good all rounder, AZ-104. Which, after passing, gave me the Microsoft Azure Administrator Associate certification.
 
 I work with Azure on an almost daily basis so I'd like to think I have a good understanding of how most of the things in the spec work, with the exception of a few things that were already set up in my organisation, some of the things I learned during my training have now been implemented into our Azure environment.
 
-My study resources primarily consisted of Pluralsight (shoutout Tim Warner and Michael Bender!), which was paid for by my employer. I whole-heartedly recommend tinkering with your own lab environment, I feel with tech training, that is where you will get the majority of your knowledge and experience. However, I do accept a lot of people won't have the compute resources to tinker with the on-prem aspects, instead I did a lot of self-paced training in Azure directly by using Spot instances to minimise costs, the highest it went to before I sat the exam was just under £14, which, for the knowledge and certification that brought me, I think was money well spent.
+My study resources primarily consisted of Pluralsight (shoutout Tim Warner and Michael Bender!), which was paid for by my employer. I whole-heartedly recommend tinkering with your own lab environment, working in IT, that is where you will get the majority of your knowledge and experience. I did a lot of self-paced training in Azure directly by using Spot instances to minimise costs, the highest it went to before I sat the exam was just under £14, which, for the knowledge and certification that brought me, I think was money well spent.
 
 
 ![Microsoft Certified Azure Administrator](/public/azure-administrator-associate.png){:class="img-responsive"}

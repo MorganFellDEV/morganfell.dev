@@ -16,7 +16,7 @@ baseurl:          /
 paginate:         5
 
 # Custom vars
-version:          0.02
+version:          0.03
 
 github:
   repo:           https://github.com/MorganFellDEV
