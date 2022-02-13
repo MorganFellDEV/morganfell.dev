@@ -8,7 +8,7 @@ Throughout 2022, I want to focus more on VMware technologies in my homelab, with
 
 But how are we going to work with this? A new server cluster of course! *Alongside the power bill that will go with it.* Whilst it's not the best one I've seen in the VMware space (looking at you Marc Huppert), there's certainly a lot of breathing room with this new lab. 32 CPU cores and over 400GB of RAM. 
 
-![Overview of the Homelab, three nodes, thirty two CPU cores and over four hundred gigabytes of RAM.](/public/lab-screenshot.png){:class="img-responsive"}
+![VMware Lab](/public/lab-screenshot.PNG){:class="img-responsive"}
 
 The three physical hosts consist of two Dell PowerEdge R620s and a single Dell PowerEdge R420. 
 
