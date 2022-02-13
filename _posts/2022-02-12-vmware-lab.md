@@ -6,7 +6,7 @@ description: Tearing down the homelab and starting from scratch. This post detai
 
 Throughout 2022, I want to focus more on VMware technologies in my homelab, with the intent on sitting the VCP-DCV exam later in the year. I'll admit that this site has not has as much content as I initially hoped when I first created it. With this new homelab I hope to try and put out a new post every month detailing what's going into the lab, what I'm tinkering with and findings from it, as well as sharing any tricks and scripts that I write during the process of everything.
 
-But how are we going to work with this? A new server cluster of course! *Alongside the power bill that will go with it.* Whilst it's not the best one I've seen in the VMware space (looking at you Marc Huppert), there's certainly a lot of breathing room with this new lab. 32 CPU cores and over 400GB of RAM. 
+But how are we going to work with this? A new server cluster of course! *Alongside the power bill that will go with it.* Whilst it's not the best one I've seen in the VMware space (looking at you Marc Huppert), there's certainly a lot of breathing room with this new lab. 38 CPU cores and over 400GB of RAM. 
 
 ![VMware Lab](/public/lab-screenshot.PNG){:class="img-responsive"}
 
